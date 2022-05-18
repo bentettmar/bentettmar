@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I'm Ben, a passionate frontend and script developer.
+## Hi there 👋
+**I'm Ben**, a passionate frontend and script developer.
 
 - 🔭 I’m currently working on [Frost](https://github.com/frostchat)
 - 👯 I’m looking to collaborate on [Menu Note](https://menunote.app/)
