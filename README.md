@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Frost](https://github.com/frostchat)
 - 👨‍💻 All of my projects are available at [https://benny.fun/](https://benny.fun/)
 - 💬 Ask me about **Python, Javascript**
-- 📫 How to reach me **hello@benny.fun**
+- 📫 How to reach me **bentettmar@yahoo.com**
 - ⚡ Fun fact **I enjoy going mountain biking.**
 
 ---
