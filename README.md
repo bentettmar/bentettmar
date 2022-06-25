@@ -10,20 +10,21 @@
 
 ---
 ## 🏢 Hire Me
-I have 3 years experience in Python, 2 years of HTML, CSS and 1 year of JavaScript.   
-For **£40 per hour** I will develop something of your choice in Python, HTML, CSS and JavaScript (Front end).  
-Please take a look at my repositories or my other projects for a reference of what I am capable of.  
-
-Some examples of what I can do for you:
-- A website for yourself or your business or company.
+I have experience working in multiple programming languages. Such as Python, HTML, CSS, and JavaScript.  
+I offer software design in a range of languages starting at **£40 an hour**, contact me for specifics.   
+For proof of my abilities please check my repositories or other projects.  
+  
+As an idea of what services I can offer please see the list below.  
+For other requests please contact me with the details of what you require.
+- A professional quality website for yourself, business or company.
 - An API made with flask.
 - Basic desktop app with electron.
-- A discord bot for your server.
+- A discord bot for your server.  
   
-If you're interested please email me at **bentettmar@yahoo.com**.  
-*Please dont message me on my social medias, I will ignore your requests.*
+For business inquiries please contact me at **bentettmar@yahoo.com**.  
+*If contact is made through social media please be aware that I am unlikely to read and reply to these messages.*  
   
-I am open to requests between June 23rd and 1st September.
+I am open to requests between June 23rd and 1st September.  
 
 ---
 ## ⚡️ Recent Activity
