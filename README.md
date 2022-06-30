@@ -10,7 +10,7 @@
 
 ---
 ## 🏢 Hire Me
-I have experience working in multiple programming languages. Such as Python, HTML, CSS, and JavaScript.  
+I have experience working in multiple programming languages such as Python, HTML, CSS, and JavaScript.  
 I offer software design in a range of languages starting at **£40 an hour**, contact me for specifics.   
 For proof of my abilities please check my repositories or other projects.  
   
