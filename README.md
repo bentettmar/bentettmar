@@ -29,9 +29,9 @@ I am open to requests between June 23rd and 1st September.
 ---
 ## ⚡️ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#71](https://github.com/GhostSelfbot/Ghost/pull/71) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
-2. 🗣 Commented on [#70](https://github.com/GhostSelfbot/Ghost/issues/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
+1. 🗣 Commented on [#74](https://github.com/GhostSelfbot/Ghost/issues/74) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
+2. ❌ Closed PR [#71](https://github.com/GhostSelfbot/Ghost/pull/71) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
 3. 🗣 Commented on [#70](https://github.com/GhostSelfbot/Ghost/issues/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
-4. 🎉 Merged PR [#70](https://github.com/GhostSelfbot/Ghost/pull/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
-5. 🗣 Commented on [#70](https://github.com/GhostSelfbot/Ghost/issues/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
+4. 🗣 Commented on [#70](https://github.com/GhostSelfbot/Ghost/issues/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
+5. 🎉 Merged PR [#70](https://github.com/GhostSelfbot/Ghost/pull/70) in [GhostSelfbot/Ghost](https://github.com/GhostSelfbot/Ghost)
 <!--END_SECTION:activity-->
